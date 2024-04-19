@@ -1,6 +1,7 @@
 import image from "../../../assets/body/Frame 35.png"
-import FilledButton from "../../../component/reUseAble/filledButton";
+import FilledButton from "../../../components/reUseable/filledButton";
 import styles from "./index.module.css"
+// import FilledButton from "../filledButton";
 
 const Unlock = ()=>{
     return(

@@ -1,5 +1,5 @@
 import pana from "../../../assets/body/pana.png"
-import FilledButton from "../../../component/reUseAble/filledButton";
+import FilledButton from "../../../components/reUseable/filledButton"
 import style from "./index.module.css"
 
 const Calender = ()=>{

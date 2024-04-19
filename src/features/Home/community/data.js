@@ -1,6 +1,6 @@
-import logo from "../../../../../untitled/src/assets/community/Icon (3).png"
-import logo1 from "../../../../../untitled/src/assets/community/Icon (4).png"
-import logo2 from "../../../../../untitled/src/assets/community/Icon (5).png"
+import logo from "../../../assets/community/Icon (3).png"
+import logo1 from "../../../assets/community/Icon (4).png"
+import logo2 from "../../../assets/community/Icon (5).png"
 
 export const Content = [
     {

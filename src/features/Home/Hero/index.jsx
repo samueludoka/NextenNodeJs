@@ -1,6 +1,8 @@
 import style from "./index.module.css"
-import FilledButton from "../../../component/reUseAble/filledButton";
+// import FilledButton from "../../../component/reUseAble/filledButton";
+// import FilledButton from "../filledButton";
 import hero from "../../../assets/hero/Illustration.svg";
+import FilledButton from "../../../components/reUseable/filledButton";
 
 const Hero = ()=>{
     return(

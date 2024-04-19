@@ -1,7 +1,9 @@
 import logo from "../../../assets/header/Icon.png"
 import styles from "./index.module.css"
-import FilledButton from "../../../component/reUseAble/filledButton"
-import OutlinedButton from "../../../component/reUseAble/outlinedButton"
+// import FilledButton from "../../../component/reUseAble/filledButton"
+// import OutlinedButton from "../outlinedButton";
+import FilledButton from "../filledButton";
+import OutlinedButton from "../outlinedButton";
 const Navbar = () =>{
     return(
         <div className={styles.mainCont}>

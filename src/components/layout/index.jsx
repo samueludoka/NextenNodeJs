@@ -1,6 +1,6 @@
-import Navbar from "../reUseAble/navbar";
+import Navbar from "../reUseable/navbar";
 import {Outlet} from "react-router-dom"
-import Footer from "../reUseAble/Footer";
+import Footer from "../reUseable/Footer";
 import Body from "../../features/Body";
 
 
