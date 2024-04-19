@@ -1,7 +1,7 @@
 import style from "./index.module.css"
 import {Content} from "./Data";
 
-const Achievements = ()=>{
+const Achievements = () => {
     return(
         <div className={style.mainCont}>
             <div className={style.secondDiv}>
@@ -33,5 +33,4 @@ const Achievements = ()=>{
     )
 
 }
-
 export default Achievements;
